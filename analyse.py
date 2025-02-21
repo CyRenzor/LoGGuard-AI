@@ -138,6 +138,5 @@ def main():
         # Si la planification n'est pas spécifiée, exécuter une seule fois
         analyser_logs(args)
 
-
 if __name__ == "__main__":
     main()
