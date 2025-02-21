@@ -4,3 +4,6 @@ LogGuard_AI est un outil de détection d'intrusions conçu pour améliorer la s�
  LogGuard_AI aide à maintenir l'intégrité et la sécurité des réseaux
 
 Une V2 de ce script arrivera prochainement. 
+
+
+By Houss & Lorenzo 
