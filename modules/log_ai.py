@@ -49,7 +49,7 @@ class LogAI:
         # Demander à GPT de formater la réponse en JSON
         prompt = f"""
         Voici des logs d'authentification. Analyse-les et formate la réponse en JSON,sans accent pour tout les mots et je souhaite que les reponses soit technique.
-        Les tentatives d'instrusions seront plusieurs tentatives avec la même adresse IP, n'utilise pas le mot securiter dans tes reponse.
+        Les tentatives d'instrusions seront plusieurs tentatives avec la même adresse IP, n'utilise pas le mot securité dans tes reponses.
         Pour chaque ligne de log enleve les accents afin que ma reponse en JSON soit bien interpreté, indique si c'est une tentative d'intrusion sous la forme :
         [{{
             "log": "<contenu_du_log>",
