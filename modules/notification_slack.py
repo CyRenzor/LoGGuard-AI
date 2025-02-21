@@ -7,7 +7,7 @@ class SlackNotification:
     Permet d'envoyer des notifications sur un channel Slack
     via un webhook.
     """
-    def __init__(self, webhook_url="https://hooks.slack.com/services/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"):
+    def __init__(self, webhook_url=):
         """
         Initialise la classe SlackNotification avec l'URL du webhook Slack.
         """
